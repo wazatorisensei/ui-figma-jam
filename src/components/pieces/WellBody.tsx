@@ -1,0 +1,8 @@
+export const WellBody = () => {
+  return (
+    <svg width="159" height="720" viewBox="0 0 159 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M52 240.65H61.35V719.85H51.15V250V249.85H51H40.6504L41.15 70.0004L41.1504 69.85H41H10.6513L11.15 10.0013L11.1513 9.85H11H0.65V0.15H31.35V60V60.1464L31.4963 60.15L51.85 60.6464V240.5V240.65H52Z" fill="#989898" stroke="black" stroke-width="0.3" />
+      <path d="M148.5 9.85H158.35V0.15H128.65V60V60.15H128.5H108.65V241.5V241.65H108.5H98.15V719.85H108.35V250V249.85H108.5H117.85V70.5V70.35H118H148.35V10V9.85H148.5Z" fill="#989898" stroke="black" stroke-width="0.3" />
+    </svg>
+  )
+}
